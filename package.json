@@ -1,6 +1,7 @@
 {
   "private": true,
   "workspaces": [
+
     "packages/*",
     "website",
     "website-1.x",
