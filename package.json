@@ -1,7 +1,6 @@
 {
   "private": true,
   "workspaces": [
-
     "packages/*",
     "website",
     "website-1.x",
@@ -96,5 +95,9 @@
   },
   "engines": {
     "node": ">=10.9.0"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "react-app-polyfill": "^1.0.6"
   }
 }
